@@ -1,1 +1,1 @@
-# osd-pharma-r
+# Open Source Development in R for Pharma: a book
